@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const app = express();
-const port = 3000;
+const port = 3760;
 
 // Middleware to set response headers for JSON format
 app.use(express.json());
@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
     const imageList = images.map(image => `<img src="${image.url}" alt="${image.name}" />`).join('<br>');
 
     // Send the HTML response
-    res.send(`<h1>Welcome to the Black Tea App, My Black Poppy...</h1>${imageList}`);
+    res.send(`<h1>Welcome to the Black Tea App, My Black</h1>${imageList}`);
 });
 
 // Start the server
