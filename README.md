@@ -41,8 +41,11 @@ To run the Black Tea Supply Chain Management dApp locally, follow these steps:
 3. Start the development server:
    ```bash
    npm start
-   ```
-
+   ``` 
+or to test it 
+```
+node app.js
+```
 4. Open your web browser and navigate to http://localhost:3000 to access the dApp.
 
 ## Contribution
@@ -61,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or inquiries, please contact [flechemano@gmail.com](flechemano@gmail.com).
 
 ```
 
