@@ -46,7 +46,7 @@ or to test it
 ```
 node app.js
 ```
-4. Open your web browser and navigate to http://localhost:3000 to access the dApp.
+4. Open your web browser and navigate to http://localhost:3760 to access the dApp.
 
 ## Contribution
 
