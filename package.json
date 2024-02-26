@@ -1,5 +1,5 @@
 {
-  "name": "black-tea",
+  "name": "@flechemano/black-tea",
   "version": "0.1.0",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "about.js",
@@ -26,9 +26,9 @@
     "web3": "^4.5.0"
   },
   "keywords": [],
-  "author": "",
+  "author": "flechemano",
   "license": "ISC",
-  "private": true,
+  "private": false,
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -49,6 +49,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/flachemano/black-tea"
+    "url": "git+https://github.com/flachemano/black-tea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flachemano/black-tea/issues"
+  },
+  "homepage": "https://github.com/flachemano/black-tea#readme",
+  "devDependencies": {
+    "mocha": "^10.1.0"
   }
 }
