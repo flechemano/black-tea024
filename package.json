@@ -1,13 +1,11 @@
 {
   "name": "black-tea",
   "version": "0.0.6",
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "This project was bootstrapped with Create React App.",
   "main": "about.js",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
   },
   "dependencies": {
     "cors": "^2.8.5",
@@ -15,7 +13,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
- },
+  },
   "keywords": [],
   "author": "flechemano",
   "license": "ISC",
@@ -42,11 +40,5 @@
     "type": "git",
     "url": "https://github.com/flechemano/black-tea"
   },
-  "bugs": {
-    "url": "https://github.com/flechemano/black-tea/issues"
-  },
-  "homepage": "https://github.com/flechemano/black-tea",
-  "devDependencies": {
-    "mocha": "^10.1.0"
-  }
+  "homepage": "https://github.com/flechemano/black-tea"
 }
