@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml)
 
 ```
 # Black Tea Supply Chain Management dApp
@@ -64,6 +65,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, please contact [flechemano@gmail.com](flechemano@gmail.com).
-
-[![Node.js CI](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml)
+For questions or inquiries, please contact ``` [flechemano@gmail.com](flechemano@gmail.com).
+```
