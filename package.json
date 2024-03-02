@@ -1,5 +1,5 @@
 {
-  [![Node.js CI](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml)
+  [![Node.js CI](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml),
 "name": "black-tea",
   "version": "0.0.6",
   "description": "This project was bootstrapped with Create React App.",
