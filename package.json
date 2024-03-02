@@ -10,19 +10,12 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "@testing-library/user-event": "^13.5.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
-    "ganache-cli": "^6.12.2",
-    "ipfs": "^0.66.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "solc": "^0.8.24",
-    "truffle": "^5.11.5",
-    "web-vitals": "^2.1.4",
-    "web3": "^4.5.0"
-  },
+ },
   "keywords": [],
   "author": "flechemano",
   "license": "ISC",
