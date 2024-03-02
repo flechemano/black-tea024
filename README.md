@@ -69,3 +69,4 @@ For questions or inquiries, please contact [flechemano@gmail.com](flechemano@gma
 ```
 
 Feel free to modify and expand upon this template to better suit your project's specific needs and requirements!
+[![Node.js CI](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml)
