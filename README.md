@@ -66,7 +66,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or inquiries, please contact [flechemano@gmail.com](flechemano@gmail.com).
 
-```
-
-Feel free to modify and expand upon this template to better suit your project's specific needs and requirements!
 [![Node.js CI](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/black-tea/actions/workflows/node.js.yml)
