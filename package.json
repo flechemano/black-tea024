@@ -13,6 +13,16 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "dependents": [
+    {
+      "name": "blackteaswa024",
+      "version": "0.1.3"
+    },
+    {
+      "name": "reet024",
+      "version": "1.0.0"
+    }
+  ],
   "author": "flechemano",
   "license": "ISC",
   "devDependencies": {
@@ -21,7 +31,8 @@
   "homepage": "https://github.com/flechemano/black-tea",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flechemano/black-tea.git "
+    "url": "https://github.com/flechemano/black-tea.git"
   },
   "private": false
 }
+
