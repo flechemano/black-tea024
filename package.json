@@ -17,12 +17,12 @@
   },
   "dependents": [
     {
-      "name": "blackteaswa024",
-      "version": "0.1.1"
+      "name": "blackteaswap024",
+      "version": "0.1.5"
     },
     {
       "name": "reet024",
-      "version": "0.0.7"
+      "version": "0.0.8"
     }
   ],
   "author": "flechemano",
