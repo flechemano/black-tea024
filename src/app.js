@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div>
-      <h1>Welcome to the Black Tea App, My Black Poppy...</h1>
+      <h1>Welcome to the Black Tea App,...</h1>
       {imageList}
     </div>
   );
