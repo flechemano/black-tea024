@@ -8,6 +8,8 @@
     "build": "react-scripts build"
   },
   "dependencies": {
+    "blacktea024": "^0.1.3",
+    "nth-check": "^2.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
@@ -16,7 +18,8 @@
   "author": "flechemano",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^10.1.0"
+    "mocha": "^10.1.0",
+    "postcss": "^8.4.36"
   },
   "homepage": "https://github.com/flechemano/black-tea",
   "repository": {

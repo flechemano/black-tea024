@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Run npm audit fix with force flag to address all issues
+npm audit fix --force
+
+# Display warnings and deprecations
+echo "Warnings and deprecations:"
+echo "--------------------------"
+npm audit
+
+# Fix inefficient regular expression complexity in nth-check
+echo "Fixing inefficient regular expression complexity in nth-check..."
+npm install nth-check@latest --save
+
+# Fix PostCSS line return parsing error
+echo "Fixing PostCSS line return parsing error..."
+npm install postcss@latest --save-dev
+
+# Display vulnerabilities
+echo "Vulnerabilities:"
+echo "----------------"
+npm audit
+
+# Additional instructions
+echo "Additional instructions:"
+echo "------------------------"
+echo "Review the audit report and ensure all vulnerabilities are addressed."
+echo "Consider updating any other dependencies if necessary."
+
