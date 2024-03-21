@@ -1,21 +1,62 @@
 {
-  "name": "blacktea024",
-  "version": "0.1.6",
+  "name": "black-tea",
+  "version": "0.1.7",
   "description": "This project was bootstrapped with Create React App.",
   "main": "about.js",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "update-deprecated": "npm uninstall @babel/plugin-proposal-private-methods @babel/plugin-proposal-numeric-separator @babel/plugin-proposal-class-properties @babel/plugin-proposal-nullish-coalescing-operator rollup-plugin-terser @babel/plugin-proposal-optional-chaining domexception sourcemap-codec workbox-cacheable-response workbox-google-analytics && npm install @babel/plugin-transform-private-methods @babel/plugin-transform-numeric-separator @babel/plugin-transform-class-properties @babel/plugin-transform-nullish-coalescing-operator @rollup/plugin-terser @babel/plugin-transform-optional-chaining && npm audit fix"
   },
   "dependencies": {
-    "@babel/plugin-transform-numeric-separator": "^7.23.4",
-    "@babel/plugin-transform-private-methods": "^7.23.3",
+    "@babel/plugin-transform-async-generator-functions": "^7.24.3",
+    "@babel/plugin-transform-class-properties": "^7.24.1",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.24.1",
+    "@babel/plugin-transform-numeric-separator": "^7.24.1",
+    "@babel/plugin-transform-object-rest-spread": "^7.24.1",
+    "@babel/plugin-transform-optional-catch-binding": "^7.24.1",
+    "@babel/plugin-transform-optional-chaining": "^7.24.1",
+    "@babel/plugin-transform-private-methods": "^7.24.1",
+    "@babel/plugin-transform-unicode-property-regex": "^7.24.1",
+    "@ethereumjs/block": "^5.2.0",
+    "@flechemano/black-tea024": "^1.0.1",
+    "@flechemano/redsnowswap": "^1.2.3",
     "@jridgewell/sourcemap-codec": "^1.4.15",
+    "@nryeah/sunflower": "^1.2.3",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "abab": "^2.0.6",
+    "babysamo": "^1.2.4",
+    "blackicetea024": "^1.0.1",
+    "blacktea024": "^0.1.6",
+    "blackteaswap024": "^0.0.16",
+    "blackteaufuk2024": "^1.2.3",
+    "bootstrap-tea": "^1.2.3",
+    "boringjobs7652": "^1.2.3",
+    "graceful-fs": "^4.2.11",
+    "gulp-util": "^3.0.8",
+    "minimatch": "^9.0.3",
+    "natives": "^1.1.6",
     "nth-check": "^2.1.1",
+    "ontea1": "^1.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "reet024": "^0.0.6",
+    "resolve-url": "^0.2.1",
+    "somefreshtea": "^1.2.3",
+    "source-map-resolve": "^0.6.0",
+    "source-map-url": "^0.4.1",
+    "stable": "^0.1.8",
+    "sunflower2": "^1.2.3",
+    "sunflower22": "^1.2.3",
     "svgo": "^3.2.0",
-    "web-vitals": "^2.1.4"
+    "tea-oss-042": "^1.2.3",
+    "test": "^3.3.0",
+    "urix": "^0.1.0",
+    "w3c-hr-time": "^1.0.2",
+    "web-vitals": "^2.1.4",
+    "web3": "^4.6.0",
+    "yeniproje": "^1.2.3"
   },
   "author": "flechemano",
   "license": "ISC",
@@ -30,19 +71,6 @@
   "homepage": "https://github.com/flechemano/black-tea",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flechemano/black-tea.git"
-  },
-  "private": false,
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+    "url": "https://github.com/flechemano/black-tea"
   }
 }
