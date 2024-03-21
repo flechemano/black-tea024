@@ -1,5 +1,5 @@
 {
-  "name": "black-tea",
+  "name": "@flechemano/black-tea",
   "version": "1.0.1",
   "description": "This project was bootstrapped with Create React App.",
   "main": "about.js",
